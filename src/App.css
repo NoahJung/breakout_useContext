@@ -1,0 +1,12 @@
+.UserInfo div {
+  background-color: lightgrey;
+  margin: 1px;
+  /* border: solid 1px; */
+  padding: .5em;
+  width: 14em;
+}
+
+p {
+  margin-bottom: .5em;
+  margin-top: .5em;
+}
